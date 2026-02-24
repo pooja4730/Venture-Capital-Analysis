@@ -1,0 +1,9 @@
+data/investments_VC.csv
+
+# Dataset Information
+This project uses the Venture Capital Investments dataset obtained from Kaggle.
+
+Dataset Source:
+https://www.kaggle.com/datasets/arindam235/startup-investments-crunchbase
+
+Due to licensing restrictions, the dataset is not included in this repository.
